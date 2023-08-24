@@ -12,6 +12,7 @@
 <ul> 
   <li> Shopping Cart</li>
   <li> String Transformation</li>
+  <li>missingCharacters</li>
 </ul>
 
 ### 2. Problem Solving
